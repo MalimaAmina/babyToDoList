@@ -3,9 +3,9 @@
 export default function ToDoList(){
     return (
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li> Build Cot</li>
+    <li> Pack Hospital Bag</li>
+    <li> Book antenatal classes</li>
 </ul>
     );
 }

@@ -1,6 +1,6 @@
 //Elite to do list plan
 
-//Make a Figma plan with your desired to do list app and work on CSS from there?
+//Make a Figma plan/Wireframes with your desired to do list app and work on CSS from there?
 // Create a to-do list app that allows you to add and delete tasks
 // Do this with React
   //Initialise react app✅
