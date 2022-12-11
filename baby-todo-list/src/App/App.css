@@ -1,3 +1,7 @@
+.background{
+  background-color: #857F74;
+}
+
 .App {
   text-align: center;
   background-color: #566246;
@@ -25,18 +29,8 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: 01161E;
+  font-family: cursive;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
