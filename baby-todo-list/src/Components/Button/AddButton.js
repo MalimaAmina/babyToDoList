@@ -1,6 +1,6 @@
 
 export default function AddButton() {
     return (
-        <button>Add to List</button>
+        <button id='add-button' className="add-button">Add to List</button>
     );
 }

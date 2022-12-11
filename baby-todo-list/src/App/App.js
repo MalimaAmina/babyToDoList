@@ -9,10 +9,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+      Before Eli arrives...
+      </header>
+        <div>
         <AddItem></AddItem>
         <ToDoList></ToDoList>
         <AddButton></AddButton> <DeleteButton></DeleteButton>
-      </header>
+        </div>
     </div>
   );
 }

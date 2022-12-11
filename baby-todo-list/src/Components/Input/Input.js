@@ -5,8 +5,8 @@ function AddItem({ handleChange }) {
 		<input
 			type='text'
 			placeholder='Add task...'
-			className='search-bar'
-			id='search-bar'
+			className='task-bar'
+			id='task-bar'
 			onChange={handleChange}
 		></input>
 	);

@@ -1,6 +1,6 @@
 
 export default function DeleteButton() {
     return (
-        <button> Delete task </button>
+        <button id='delete-button' className="delete-button"> Delete task </button>
     );
 }
